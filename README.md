@@ -6,7 +6,8 @@
 2、拷贝密文  
 
 3、秘钥你的英文id，点击解密
-<img width="1209" alt="image" src="https://github.com/sunnyhuihui/letter/assets/35948252/bc1485be-9aa7-4426-b409-2c04b2aa8e6c">
+![Uploading image.png…]()
+
 
 # 密文：
 ## 正文
